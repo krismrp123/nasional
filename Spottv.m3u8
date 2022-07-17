@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4292608,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1658025819~exp=9007200912766810~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=db41bff3769cda2a2cbb77b52d1dd0c9a9f3e6da073d493bbba264ba9387dda4
+#EXT-X-STREAM-INF:BANDWIDTH=1732608,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1658025819~exp=9007200912766810~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=db41bff3769cda2a2cbb77b52d1dd0c9a9f3e6da073d493bbba264ba9387dda4
+#EXT-X-STREAM-INF:BANDWIDTH=1015808,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1658025819~exp=9007200912766810~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=db41bff3769cda2a2cbb77b52d1dd0c9a9f3e6da073d493bbba264ba9387dda4
