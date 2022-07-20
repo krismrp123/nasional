@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658296591/ei/r0TXYviVBcy9z7sP44Cl6AI/ip/182.3.102.106/id/dDecWbsjCow.1/source/yt_live_broadcast/requiressl/yes/tx/24231647/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/spc/lT-KhtVUfUgsgZbYliA7NHjn5e9KtydNrVaGDegMWSYc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPHpwXKA4dPhpxpDm7sjpgDUdjjoUmV_XfFbA239ZPtuAiBv95m01guHL0nThacU8-S-ZXEojBoI3SN5oO3yQfhClQ%3D%3D/file/index.m3u8
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:1656018470
+#EXTINF:6.006,
+https://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.tuantuan3.com&player=-EIAAAZrJ522YAMX&secondToken=secondToken%3A16dyGjMod-R4XBJ270Jzu3MOKfA&sign=2a1dad8ca36d14f0f86296226d9fb05f&streamid=tuantuan3-com%3Atuantuan3-com%2Fsd-1-3742539&t=62d7545d&v3=1
